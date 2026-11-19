@@ -1,2 +1,5 @@
 # Parcial_1
-parcial1
+
+Primer parcial de Programacion III
+
+con la opcion usando IA
